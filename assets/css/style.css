@@ -911,9 +911,10 @@ html, body {
 }
 
 .section-features img {
+    border-radius: 20px;
     position: absolute;
     right: 15px;
-    height: 380px;
+    height: 200px;
 }
 
 /* Section: Services */
